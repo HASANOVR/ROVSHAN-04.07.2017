@@ -1,7 +1,7 @@
-#Rovhan test
+# Rovhan 
 
-*Movzu
-    -Sabeyim
-    -Baladeyim
+* Movzu
+    - Sabeyim
+    - Baladeyim
     
-*Ugurlar
+* Ugurlar
