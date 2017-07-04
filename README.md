@@ -5,4 +5,3 @@
     - Baladeyim
     
 * Ugurlar
-\<infty>
